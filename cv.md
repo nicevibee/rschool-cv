@@ -15,3 +15,6 @@ Skills and Proficiency:
 * HTML
 * CSS
 * GitHub, Git
+<hr>
+Courses:
+JavaScript for beginners by Hexlet

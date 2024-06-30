@@ -18,3 +18,7 @@ Skills and Proficiency:
 <hr>
 Courses:
 JavaScript for beginners by Hexlet
+<hr>
+Languages:
+English - intermediate according to the efset.com 
+russian - native
